@@ -1,8 +1,10 @@
 import React from 'react'
+import VantaHalo from '../Components/VantaHalo'
 
 const HomePage = () => {
   return (
     <>
+    <VantaHalo />
         <div>
   <main className="contenedor_main">
     <div className="subcontenedor_main">
